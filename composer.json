@@ -1,0 +1,14 @@
+{
+    "name": "latenights/open-lpr",
+    "description": "OpenLPR - automatické rozpoznávanie ŠPZ",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OpenLPR\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
